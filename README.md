@@ -1,0 +1,5 @@
+- Hello! My name is Thaddeus Yurek, but I go by TJ
+- I am a current Computer Science Senior at Biola University
+- I am seeking a future career in the field of Software Engineering, with hopes of becoming project manager
+- I have extensive experience both in C++ and JavaScript
+- The best way to reach me is through my email: tjyurek@gmail.com
